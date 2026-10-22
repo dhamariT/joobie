@@ -1,2 +1,3 @@
 # joobie
-i am becoming a cold-gas thruster controller PCB and the valve
+
+I’m building like a rig that shoot’s , a platform that steers itself with puffs of compressed air, and the custom circuit board and firmware that fire the valves safely. the cold gas thruster is basically the simplest rocket engine you could ever build.All you do is store gas at a very high pressure and let it thrust out through a nozzle. It’s the same idea as letting go a ballon.I’m building a very small rig that demonstrates that capability thats the MVP the idea is that I want to custom build the circuit board for it and write the firmware and also 3D print the trusters

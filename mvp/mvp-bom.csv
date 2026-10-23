@@ -1,0 +1,16 @@
+category,item,quantity,price,source,have?
+gas,HPA tank,1,29.95,https://maddogsports.com/products/clearance-maddog-48-3000-compressed-air-aluminum-hpa-paintball-tank-with-regulator-hydro-used-but-not-abused,no
+gas,LP regulator,1,100,https://www.evike.com/products/86277/PolarStar-MR-MicroReg-Gen-2-Micro-Regulator-Air-Rig-Package-Regulator-Only/,no
+gas,relief valve,1,6.95,https://compressor-source.com/products/125-psi-1-4-male-npt-air-compressor-pressure-relief-safety-pop-off-valve-solid-brass,no
+gas,solenoid valve,1,71.27,https://www.amazon.com/dp/B0CKXHQJGD,no
+gas,foster plug,1,10.97,https://www.amazon.com/dp/B0751J5T7D,no
+gas,"tee, bushing, PTFE tape",1,,,no
+gas,1/4 NPT brass tee,1,,hardware store,no
+gas,1/8F to 1/4M NPT brass bushing,1,,hardware store,no
+gas,PTFE tape,1,,hardware store,no
+electricals,12V power supply,1,7.99,https://www.amazon.com/dp/B0DQ7CPTTH,no
+electricals,MOSFET,1,2.81,,no
+electricals,10k resistor,1,,,no
+electricals,Diode kit,1,7.99,https://www.amazon.com/dp/B01LW6N0AD,no
+safety,Safety glasses,1,,https://www.amazon.com/dp/B09WJVX6Y7,yes
+controls,STM32 Nucleo,1,,,yes
